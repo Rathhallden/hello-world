@@ -1,6 +1,6 @@
 <template>
   <div class="here">
-      hello crush
+      hello pipeline job with shell script
   </div>
 </template>
 
